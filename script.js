@@ -25,7 +25,7 @@ function createSpamButton() {
 
   var spamButton = document.createElement("button");
   spamButton.setAttribute("id", "spamButton");
-  spamButton.innerHTML = "BOM";
+  spamButton.innerHTML = "SEND BUTTON";
   spamButton.style.fontSize = "100%";
   spamButton.style.padding = "20px 10px";
   composeBar.append(spamButton);
