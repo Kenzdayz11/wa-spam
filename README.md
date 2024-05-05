@@ -23,4 +23,6 @@ Step 8 : Akan muncul menu interval, Bebas mau diisi berapa
 
 Dan ya, Script berhasil berjalan.
 
+[UPDATE] 05/05/24 22:03 WIB : Spam message mungkin tidak berjalan karena ada kesalahan, sedang saya perbaiki.
+
 -- ALL CREDITS BELONGS TO : https://github.com/rahmatsubandi --
